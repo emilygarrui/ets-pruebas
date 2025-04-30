@@ -1,0 +1,10 @@
+#Ignorar todos los archivos JPG y PNG en la raíz
+/*.jpg
+/*.jpeg
+/*.png
+
+#Ignorar una carpeta vacía
+/empty/
+
+#Ignorar un archivo específico inventado
+/vacio.dumm
